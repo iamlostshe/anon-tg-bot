@@ -1,0 +1,13 @@
+# Anon-tg-bot
+.env
+
+# IDE
+idea
+vscode
+
+# Python
+__pycache__
+venv
+
+# Logs
+*.log
